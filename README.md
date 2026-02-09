@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
-<h3 align="center">Data Analyst Intern @ VTrick Technologies</h3>
+<h3 align="center">Data Analyst Intern in VTrick Technologies</h3>
 
 - 🔭 I’m working in **VTrick Technologies**
 
@@ -13,4 +13,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/>
+</a>
+</p>
