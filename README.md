@@ -3,13 +3,13 @@
 
 - 🔭 I’m working in **VTrick Technologies**
 
-- 🌱 I’m currently learning **PowerBI, Tableau, Python, Mysql**
+- 🌱 I’m currently learning **Power BI, Tableau, Python, MySQL**
 
 - 📫 How to reach me **satyak0798@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/k-sathya-b4b180392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-sathya-b4b180392" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/k-sathya-b4b180392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-sathya-b4b180392" height="25" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
