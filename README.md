@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satya</h1>
+<h1 align="center">Hi 👋, I'm Sathya</h1>
 <h3 align="center">Data Analyst Intern @ VTrick Technologies</h3>
 
 - 🔭 I’m working in **VTrick Technologies**
