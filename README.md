@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathya</h1>
 <h3 align="center">Data Analyst Intern @ VTrick Technologies</h3>
 
-- 🔭 I’m working in **VTrick Technologies**
+- 💼 Completed internship as a **Data Analyst Intern** at **VTrick Technologies** (March 2026)
 
 - 🌱 I’m currently learning **Power BI, Tableau, Python, MySQL**
 
