@@ -3,7 +3,7 @@
 
 - 💼 Completed internship as a **Data Analyst Intern** at **VTrick Technologies** (March 2026)
 
-- 🌱 I’m currently learning **Power BI, Tableau, Python, MySQL**
+- 🌱 I’m currently learning **Power BI, Tableau, Python, MySQL, Advance Excel**
 
 - 📫 How to reach me **satyak0798@gmail.com**
 
