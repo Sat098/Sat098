@@ -10,7 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="www.linkedin.com/in/k-sathya-b4b180392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-sathya-b4b180392" height="25" width="30" /></a>
+<a href="http://www.linkedin.com/in/k-sathya-b4b180392" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/k-sathya-b4b180392" height="25" width="30" /></a>
 
 <a href="https://github.com/Sat098" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sat098" height="30" width="40" />
